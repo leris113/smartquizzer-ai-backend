@@ -1,15 +1,14 @@
 {
   "name": "smartquizzer-ai-backend",
   "version": "1.0.0",
-  "description": "Backend for SmartQuizzer AI",
   "type": "module",
   "main": "Server.js",
   "scripts": {
     "start": "node Server.js"
   },
   "dependencies": {
-    "cors": "^2.8.5",
     "express": "^4.18.2",
+    "cors": "^2.8.5",
     "node-fetch": "^3.3.2"
   }
 }
