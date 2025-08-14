@@ -1,11 +1,11 @@
 {
   "name": "smartquizzer-ai-backend",
   "version": "1.0.0",
-  "description": "Backend for Smart Quizzer AI using DeepInfra",
-  "main": "server.js",
+  "description": "Backend for SmartQuizzer AI",
   "type": "module",
+  "main": "Server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node Server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
